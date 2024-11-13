@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import Header from "./components/Header";
 import { BrowserRouter } from 'react-router-dom'
 import WorkExperience from "./components/Work Experience";
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 
 function App() {
