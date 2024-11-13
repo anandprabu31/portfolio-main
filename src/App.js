@@ -10,7 +10,9 @@ import { SpeedInsights } from "@vercel/speed-insights/react"
 
 function App() {
   return (
+   
     <div className="bg-[#171d32] h-auto w-full overflow-hidden">
+       <SpeedInsights/>
       <BrowserRouter>
       <Header/>
       <Home />
