@@ -19,7 +19,8 @@ const WorkExperience = () => {
             currently Iam focus on building accessible , human-centered products at CloudSky Technologies.  
         </div>
         <div className='text-2xl'>
-            I like to craft a solid and scalable front end products with a great user    experience
+            I like to craft a solid and scalable front end products with a great user 
+            experience
         </div>
         </ul>
 
