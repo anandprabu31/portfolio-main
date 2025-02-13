@@ -30,7 +30,7 @@ const Home = () => {
       <div className="hidden md:block">
         <img className="max-w-full" src={avatarImg} alt="" />
       </div>
-    </div>
+    </div> 
   );
 };
 
